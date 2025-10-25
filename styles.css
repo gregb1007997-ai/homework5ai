@@ -1,11 +1,23 @@
 /*  Styles for Homework 5
-    Author: Add your name here
+    Author: Greg Buchmann
 */
 
 /* heading styles */
+h1 {
+  text-align: center;
+}
 
+h4 {
+  text-align: center;
+}
 
 /* button style */
+button {
+  margin: 15px;
+  background: #336699;
+  color: #ffffff;
+  border-radius: 5px;
+}
 
 /* main container for React code */
 #container {
